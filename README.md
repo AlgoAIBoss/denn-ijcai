@@ -7,7 +7,7 @@ Feel free to contact me if you want me to send the .h5 versions of the imitation
 
 # Regression
 - The ``.sh`` files to train the different models are available in ``exec/`` for each experiment.
-- The figures can be generates using the Jupyter notebooks.
+- The figures can be generated using the Jupyter notebooks.
 
 # Classification
 - The datasets need to be downloaded first.
